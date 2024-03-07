@@ -1,0 +1,8 @@
+<h1> Olá, <%= @subscriber[:name] %></h1>
+
+<p>Veja a lista de publicações dessa semana</p>
+<ul>
+    <% @posts.each do |post| %>
+        <li> <%= post.title %> </li>
+    <% end %>
+</ul>
