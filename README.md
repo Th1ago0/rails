@@ -1,7 +1,16 @@
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# The used and studied ruby on rails resources.
 
-Things you may want to cover:
+* MVC Convention
+* Controllers
+* Models
+* Views
+* Mailer
+* jobs
+* Action Cable
+* Active Storage
+* Assets
+
+# Things you may want to cover:
 
 * Ruby version
 
@@ -19,14 +28,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-The used and studied ruby on rails resources.
-
-* MVC Convention
-* Controllers
-* Models
-* Views
-* Mailer
-* jobs
-* Action Cable
-* Active Storage
-* Assets
